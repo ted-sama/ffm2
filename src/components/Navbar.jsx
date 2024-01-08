@@ -5,7 +5,7 @@ function Navbar() {
   const links = ["Cupcakes", "Events", "About", "Contact Us"];
 
   return (
-    <header className="sticky top-0 start-0 z-50 w-full">
+    <header className="top-0 start-0 z-50 w-full">
       <div className="flex items-center justify-between py-10">
         <a href="#" className="flex items-center space-x-2">
           <FontAwesomeIcon
